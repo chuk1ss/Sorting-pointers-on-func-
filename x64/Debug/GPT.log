@@ -1,0 +1,6 @@
+﻿  function.c
+C:\Users\Александр\source\repos\SortingChar\GPT\function.c(10,9): warning C4047: return: "PersonArray *" отличается по уровням косвенного обращения от "int"
+C:\Users\Александр\source\repos\SortingChar\GPT\function.c(31,28): warning C4013: strlen: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Александр\source\repos\SortingChar\GPT\function.c(32,5): warning C4013: strcpy: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Александр\source\repos\SortingChar\GPT\function.c(63,12): warning C4013: strcmp: нет определения; предполагается "extern" с возвратом типа "int"
+  GPT.vcxproj -> C:\Users\Александр\source\repos\SortingChar\x64\Debug\Домашнее.exe
